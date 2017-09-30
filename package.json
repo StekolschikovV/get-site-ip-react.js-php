@@ -1,0 +1,25 @@
+{
+  "name": "configuration-gulp-react.js-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "latest",
+    "babel-preset-es2015": "latest",
+    "babel-preset-react": "latest",
+    "gulp": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-babel": "latest",
+    "gulp-concat": "latest",
+    "gulp-cssmin": "latest",
+    "gulp-ruby-sass": "latest",
+    "gulp-server-livereload": "latest",
+    "gulp-uglify": "latest",
+    "gulp-watch": "latest"
+  }
+}
